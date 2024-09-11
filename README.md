@@ -26,11 +26,6 @@ Once you have downloaded the sequence you can send the sequence as input.
 To generate prominent, reliable, and variant statistical-based discriminative descriptors, 
 several feature encoding approaches have been utilized for the formulation of proteins, RNA, and DNA sequences 20. 
 The detailed overview of the proposed feature encoding schemes is presented as follow.
-1. Single nucleotide composition (SNC)
-2. Dinucleotide composition (DNC)
-3. Trinucleotide composition (TNC)
-4. Quad nucleotide composition (QNC)
-5. Penta nucleotide composition (PNC)
 
 Feature Extraction folder contains all the features extraction related necessary codes used in this study.
 #### For Example: Single Nucleotide Composition (KNC)
