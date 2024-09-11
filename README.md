@@ -1,4 +1,4 @@
-# Deep-m5U: A Deep Learning-Based Approach for RNA 5-methyluridine Modification Prediction Using Optimized Feature Integration
+# Deep-m5U
 To guarantee proper use of our code, please follow all the steps in the presented order.
 ## Introduction
 RNA 5-methyluridine (m5U) modifications peKNC) 
