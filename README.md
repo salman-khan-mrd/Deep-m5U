@@ -1,10 +1,7 @@
 # Deep-m5U: A Deep Learning-Based Approach for RNA 5-methyluridine Modification Prediction Using Optimized Feature Integration
 To guarantee proper use of our code, please follow all the steps in the presented order.
 ## Introduction
-RNA 5-methyluridine (m5U) modifications play a crucial role in biological processes, making their accurate identification a key focus in computational biology. 
-This paper introduces Deep-m5U, a robust predictor designed to enhance the prediction of m5U modifications.
-The proposed method named as Deep- m5U, utilizes a hybrid pseudo-K-tuple nucleotide composition (PseKNC) for sequence formulation, a Shapley Additive exPlanations (SHAP) algorithm for discriminant feature selection, and a deep neural network (DNN) as the classifier.
-The model was evaluated using two benchmark datasets i.e. Full Transcript and Mature mRNA. 
+RNA 5-methyluridine (m5U) modifications peKNC) 
 ## Python Packages and Dependencies
 The model relies on the following Python packages and their specific versions:
 1. Pandas: 1.0.5
